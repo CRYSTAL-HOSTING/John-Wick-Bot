@@ -70,7 +70,7 @@ FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {mention}\n\n<b>You Need 
 ADMINS.append(OWNER_ID)
 ADMINS.append(5593644710)
 
-LOG_FILE_NAME = "filesharingbot.txt"
+LOG_FILE_NAME = "CrystalTelegramLogs.txt"
 
 logging.basicConfig(
     level=logging.WARNING,
